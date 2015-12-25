@@ -1,0 +1,62 @@
+your plot reviews were ok, but a bit superficial not addressing all points. 9/10
+
+NOTES ON YOUR PLOT
+===================
+
+the point size is redundant with the y position. redundant information is often used to reinforce an impression but it forces an opinion on the viewer thus it is generally dishonest.
+
+axis labels too small, tick labels too small
+
+the default three datapoints in the label should be changed to 1 since three are redundant 
+
+the legend is too verbose and misused: the words next to the points must explain what the variable the points represent is. an extra label referring to axis would be needed here. 
+
+axis missing units (ambiguity)
+
+a space is missing in the title before the (
+
+too many quantities in parenthesis (especially two consecutive parenthesis which is confusing
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+mmh555
+============
+
+the histograms with the horizontal display highlight the difference between man and women naturally
+
+the colors are compliant with most color-blindness prescriptions and avoiding a red-based color for women is wise, as plotting man and women with blue-pink triggers preconceptions
+
+the two plots should be included in the same panel to allow comparison
+
+the y label "observations" is inaccurate and non informative
+
+
+
+
+sv1379
+============
+
+the 3d as usual makes comparison difficult. additionally 3d bind distort the perception: we should compare differences in height but we are left with the impression given by he difference in volumes
+
+the color is redundant with the year 
+
+tick labels too small
+
+the cause of death axis labels are offset with respect to the variable
+
+typo in the title (parenthesis close that was never open)
+
+
+sz1795
+============
+  
+a meaningful comparison is impossible due to the large difference in the men values. if that was the point then a time series would be unnecessary. if the structure should have been compared then a time series should have been modified by multiplying by an appropriate constant and indicating that in the legend 
+
+small axes labels
+
+the axis labels should be words, not variable names: startdate -> "start date (startdate)"
+
